@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hüseyin Çetin</h1>
 <h3 align="center">A passionate full-stack developer from Turkey</h3>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huseyinncetinn" alt="huseyinncetinn" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/cetinhuseyin60" target="blank"><img src="https://img.shields.io/twitter/follow/cetinhuseyin60?logo=twitter&style=for-the-badge" alt="cetinhuseyin60" /></a> </p>
 
 - 📫 How to reach me **cetinhuseyin60@gmail.com**
